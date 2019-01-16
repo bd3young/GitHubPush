@@ -10,7 +10,7 @@ namespace GitHubPush
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World");
+			Console.WriteLine("Hello cc World");
 			Console.ReadKey();
 			
 		}
